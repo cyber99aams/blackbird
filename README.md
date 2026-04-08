@@ -12,7 +12,7 @@
 **Clone the repository**
 
 ```bash
-git clone https://github.com/p1ngul1n0/blackbird
+git clone https://github.com/cyber99aams/blackbird.git
 cd blackbird
 ```
 
@@ -27,13 +27,13 @@ pip install -r requirements.txt
 **Search by username**
 
 ```bash
-python blackbird.py --username johndoe
+python blackbird.py --username aams123
 ```
 
 **Search by email**
 
 ```bash
-python blackbird.py --email johndoe@example.com 
+python blackbird.py --email aams@example.com 
 ```
 
 **Export results to PDF**
