@@ -13,12 +13,13 @@
 
 ```bash
 git clone https://github.com/cyber99aams/blackbird.git
+
 cd blackbird
 ```
 
 **Install requirements**
 
-```bash
+```
 pip install -r requirements.txt
 ```
 
